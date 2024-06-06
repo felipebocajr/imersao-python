@@ -1,2 +1,2 @@
 # Python-immersion
- Cool exercises that i have developed in python during an immersion
+Exercícios interessantes que desenolvi utilizando Python durante uma imersão.
